@@ -1,0 +1,145 @@
+/*new lines */
+	.table>thead>tr>th>div{ 
+		float: left;
+		padding-right: 2%;
+		color: #1B76BA;
+		}
+
+	.table>thead>tr>th>div :hover{ 
+  	cursor: pointer;
+		color: #1B76BA;
+	}
+
+
+
+ /*MY css  */
+
+ body{
+  background-image: url(http://www.hdwallpaperspulse.com/wp-content/uploads/2016/03/10/black-free-background.png);
+	  background-size:cover;
+ }
+
+ .topdash{
+  width: 100%;
+  height: 90px;
+  z-index: 555;
+  background-color: #d32323;
+ }
+
+.titleWrapper{	
+	display: inline-block;
+     margin-top: 15px;
+	margin-left: 30px;
+}
+.titleWrapper div{	
+	display: inline-block;
+}
+.ratingBox {
+	width: 70px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #159710;
+    float: right;
+    padding: 4px;
+    margin-right: 45px;
+}
+.ratingBox p{
+	    font-size: 17px;
+		font-weight: 300;
+		color: #ffffff;
+		margin: 6px 0px 0px 0px;
+		text-align: center;
+}
+h1{
+	    color: #fff;
+    margin: 0;
+	font-size: 3rem;
+	font-weight: 700
+}
+h2{
+	color: #fff;
+    margin: 10;
+	font-size: 3rem;
+	font-weight: 600
+}
+h3{
+	color: #fff;
+    margin: 10;
+	font-size: 2rem;
+	font-weight: 400
+}
+.ReactModalPortal h3{
+	font-weight: 700;	
+    font-size: 25px;
+    line-height: 1.28571em;
+    color: #d32323;
+}
+
+.dir_title1 p{	
+	font-weight: 700;	
+    font-size: 18px;
+    line-height: 1.00em;
+    color: #d32323;
+}
+
+.dir_title2 p{	
+	font-weight: 700;	
+    font-size: 18px;
+    line-height: 0.90em;
+    color: #d32323;
+}
+.button_wrapper{
+	padding: 5px;
+	margin: 3px;
+	display: inline-block;
+} 
+
+.button_wrapper button{
+	width: 30%;
+	margin: 10px;
+}
+.Profileimage{
+  width: 30px;
+  height: 30px;
+  float: left;
+}
+.dir{
+	padding: 3px;
+	margin: 3px;	
+}
+.dir p{	
+    line-height: 1.28571em;
+}
+.dir div{
+	padding: 8px;
+}
+#menu-outer {
+	height: 84px;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+ul#horizontal-list li {
+  display: inline;
+  padding: 10px;
+  background-color: aliceblue;
+  margin: 5px;
+}
+.radiooptions{
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.gendericon{
+  margin-right: 8%;
+}
+.fa-male{
+  color: #4C87F5
+}
+.fa-female{
+  color: #FFC0DA
+}
+
+
+  
