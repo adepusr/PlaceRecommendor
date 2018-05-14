@@ -6,8 +6,6 @@ var mongo = require('mongodb');
 var Handlebars = require('handlebars');
 var serverCfg = require('./serverCfg.json');
 var db = require('./db.js')
-var fs = require('fs');
-var fse = require('fs-extra');
 
 
 //handlebar helper for comparision
